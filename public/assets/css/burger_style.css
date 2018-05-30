@@ -1,0 +1,37 @@
+img {
+    width: 300px;
+    height: 200px;
+    margin-left: 33%;
+}
+header {
+    color: brown;
+    width: 200px;
+    margin-top: 2%;
+    margin-left: 41%;
+}
+body {
+}
+#available-hamburgers {
+ 
+    width: 30%;
+}
+#devoured-hamburgers {
+    width: 50%;
+}
+.devour-burger {
+   
+}
+#new-burger {
+    margin-left: 35%;
+}
+.devour-button {
+    background-color: rgb(36, 148, 201);
+    border-radius: 10px;
+}
+#new-burger-submit {
+    background-color: rgb(36, 148, 201);
+    margin-left: 7%;
+    border-radius: 10px;
+}
+.available-burger {
+}
